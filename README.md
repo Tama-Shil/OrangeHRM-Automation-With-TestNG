@@ -29,7 +29,7 @@
 1. Open cmd in the root folder.
 2. Give the following commands:
    
-  *  _````allure generate allure-results --clean -o allure-report````_
+  *  _````allure generate allure-reports --clean -output````_
   *  _````allure serve allure-results````_
    
   
