@@ -43,5 +43,9 @@ https://docs.google.com/spreadsheets/d/10BaWzOoYkqDq5e1Z49k3lap4QoYeoSuMWx6Is19q
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/b2360689-8a56-4eec-8304-6a61fcbe5350
+
+https://github.com/user-attachments/assets/d443edcc-cae6-45c4-9d0f-e4737de32080
+
+
+
 
