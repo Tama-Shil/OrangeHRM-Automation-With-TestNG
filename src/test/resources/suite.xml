@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Orange HRM Demo">
+    <test name="Admin login Automation">
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="smoke"></include>-->
+<!--            </run>-->
+<!--        </groups>-->
+        <classes>
+            <class name="testrunner.LoginTestRunner"></class>
+
+        </classes>
+
+    </test>
+    <test name="Employee Creation and Search Automation">
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="smoke"></include>-->
+<!--            </run>-->
+<!--        </groups>-->
+        <classes>
+            <class name="testrunner.PIMTestRunner"></class>
+
+        </classes>
+
+    </test>
+
+    <test name="Employee details Add Automation">
+        <classes>
+            <class name="testrunner.EmployeeTestRunner"></class>
+
+        </classes>
+
+    </test>
+
+</suite>
