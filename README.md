@@ -1,5 +1,6 @@
 # OrangeHRM-Automation-With-TestNG
 
+
 ## Technology used:
 - Java
 - Intellij idea
@@ -35,7 +36,8 @@
 ## Test Cases 
 https://docs.google.com/spreadsheets/d/10BaWzOoYkqDq5e1Z49k3lap4QoYeoSuMWx6Is19qhM0/edit?usp=sharing
 ## Allure Report
-![image](https://github.com/user-attachments/assets/6a8e8274-d5c0-4d4c-9c60-42386e75bce3)
+![image](https://github.com/user-attachments/assets/115f9e8b-341f-468e-8da6-c29eb39ba150)
+
 ![image](https://github.com/user-attachments/assets/25c120c3-1333-4712-b5cc-fdfc4ea2b581)
 
 
