@@ -1,14 +1,5 @@
 # OrangeHRM-Automation-With-TestNG
-
-
-## Technology used:
-- Java
-- Intellij idea
-- Allure
-
-## Framework used:
-  - TestNG
-
+This is a web automation project that automates OrangeHRM website with TestNG. Smoke Suite were created for easy execution and generated the Allure Report for test visualization
 ## Problem scenario 
 1. Login as a admin to _https://opensource-demo.orangehrmlive.com/_
 2. Go to PIM menu and create a new employee. Save the employee firstname, lastname, employeeid, username and password into JSONArray file. Generate random password which meets following criteria:   For a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbers. Assert if employee is created successfully.
@@ -19,6 +10,15 @@
 6. Assert your full name is showing besides the profile icon.
 7. Go to my info
 8. Scroll down and select Gender and Blood Type as O+ and save it. Then logout the user.
+
+## Technology used:
+- Java
+- Intellij idea
+- Allure
+
+## Framework used:
+  - TestNG
+
 
 ## How to Run the Project
 1. Clone this project
