@@ -1,5 +1,5 @@
 # OrangeHRM-Automation-With-TestNG
-This is a web automation project that automates OrangeHRM website with TestNG. Smoke Suite were created for easy execution and generated the Allure Report for test visualization
+This is a web automation project that automates OrangeHRM website with TestNG.I have generated the Allure Report for test visualization of the test suite.
 ## Problem scenario 
 1. Login as a admin to _https://opensource-demo.orangehrmlive.com/_
 2. Go to PIM menu and create a new employee. Save the employee firstname, lastname, employeeid, username and password into JSONArray file. Generate random password which meets following criteria:   For a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbers. Assert if employee is created successfully.
