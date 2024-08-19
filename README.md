@@ -14,10 +14,11 @@ This is a web automation project that automates OrangeHRM website with TestNG.I 
 ## Technology used:
 - Java
 - Intellij idea
-- Allure
+
 
 ## Framework used:
   - TestNG
+  - Allure
 
 
 ## How to Run the Project
